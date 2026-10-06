@@ -107,9 +107,9 @@ com.ianjullian.pokedex/
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-| Home Screen | Search Pokémon | Detail Screen |
-|:---:|:---:|:---:|
-| ![Home](docs/home.png) | ![Search](docs/search.png) | ![Detail](docs/detail.png) |
+|                                                     Home Screen                                                      |                                                      Search Pokémon                                                       |                                                      Detail Screen                                                       |
+|:--------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://raw.githubusercontent.com/IanJullian/Pokedex/main/docs/home.jpeg" width="220" alt="Home Screen" /> | <img src="https://raw.githubusercontent.com/IanJullian/Pokedex/main/docs/search.jpeg" width="220" alt="Search Pokémon" /> | <img src="https://raw.githubusercontent.com/IanJullian/Pokedex/main/docs/detail.jpeg" width="220" alt="Detail Screen" /> |
 
 ---
 
