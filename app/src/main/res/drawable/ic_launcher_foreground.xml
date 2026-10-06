@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Top Red Half -->
+    <path
+        android:fillColor="#EE1515"
+        android:pathData="M26,54 A28,28 0 0,1 82,54 Z" />
+
+    <!-- Bottom White Half -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M26,54 A28,28 0 0,0 82,54 Z" />
+
+    <!-- Black Center Divider Line -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M25,51 H83 V57 H25 Z" />
+
+    <!-- Outer Black Border Circle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#212121"
+        android:strokeWidth="3.5"
+        android:pathData="M54,26 A28,28 0 1,0 54,82 A28,28 0 1,0 54,26 Z" />
+
+    <!-- Outer Button Circle (Black) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M54,44 A10,10 0 1,0 54,64 A10,10 0 1,0 54,44 Z" />
+
+    <!-- Inner Button Circle (White) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,48 A6,6 0 1,0 54,60 A6,6 0 1,0 54,48 Z" />
+
+    <!-- Center Button Highlight -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M52,51 A2,2 0 1,0 52,55 A2,2 0 1,0 52,51 Z" />
+</vector>
