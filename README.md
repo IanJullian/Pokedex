@@ -8,7 +8,7 @@
 - **NIM:** H1D024039
 - **Shift Awal:** Shift I
 - **Shift Akhir:** Shift C
-- **Link Video Demo/Penjelasan:** [YouTube/Google Drive](https://...)
+- **Link Video Demo/Penjelasan:** [YouTube Video (Demo & Penjelasan Kode)](https://youtu.be/UzO4IPRvPs4)
 
 ---
 
@@ -115,7 +115,7 @@ com.ianjullian.pokedex/
 
 ## 🚀 Cara Menjalankan Proyek
 
-1. **Prasyarat:**
+1. **Prasyarat:**l
    - Android Studio (Koala / Ladybug / versi terbaru).
    - JDK 17 atau lebih baru.
    - Perangkat fisik Android dengan USB Debugging aktif atau Emulator.
